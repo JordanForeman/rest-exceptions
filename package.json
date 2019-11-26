@@ -16,7 +16,7 @@
     "@jordanforeman/commitlint-config": "0.2.2",
     "@jordanforeman/eslint-config": "0.2.4",
     "@jordanforeman/release-config": "0.2.2",
-    "@jordanforeman/renovate-config": "0.2.2",
+    "@jordanforeman/renovate-config": "0.2.3",
     "husky": "3.1.0"
   },
   "publishConfig": {
