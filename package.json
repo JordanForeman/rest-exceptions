@@ -1,6 +1,6 @@
 {
   "name": "@jordanforeman/rest-exceptions",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Common REST Exceptions for use in Express APIs",
   "main": "index.js",
   "scripts": {
