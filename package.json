@@ -1,0 +1,22 @@
+{
+  "name": "@jordanforeman/rest-exceptions",
+  "version": "0.0.0",
+  "description": "Common REST Exceptions for use in Express APIs",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib",
+    "lint": "eslint src",
+    "verify": "npm run lint"
+  },
+  "author": "Jordan Foreman <me@jordanforeman.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@jordanforeman/babel-config": "^0.1.0",
+    "@jordanforeman/commitizen-config": "^1.2.3",
+    "@jordanforeman/commitlint-config": "^0.2.2",
+    "@jordanforeman/eslint-config": "^0.2.4",
+    "@jordanforeman/release-config": "^0.2.2",
+    "@jordanforeman/renovate-config": "^0.2.2",
+    "husky": "^3.1.0"
+  }
+}
