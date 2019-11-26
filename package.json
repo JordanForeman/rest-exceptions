@@ -11,7 +11,7 @@
   "author": "Jordan Foreman <me@jordanforeman.com>",
   "license": "MIT",
   "devDependencies": {
-    "@jordanforeman/babel-config": "0.1.0",
+    "@jordanforeman/babel-config": "0.1.1",
     "@jordanforeman/commitizen-config": "1.2.3",
     "@jordanforeman/commitlint-config": "0.2.2",
     "@jordanforeman/eslint-config": "0.2.4",
