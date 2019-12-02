@@ -18,7 +18,7 @@
     "@jordanforeman/babel-config": "0.1.1",
     "@jordanforeman/commitizen-config": "1.2.3",
     "@jordanforeman/commitlint-config": "0.2.2",
-    "@jordanforeman/eslint-config": "0.2.4",
+    "@jordanforeman/eslint-config": "0.2.6",
     "@jordanforeman/release-config": "0.2.2",
     "@jordanforeman/renovate-config": "0.2.3",
     "husky": "3.1.0"
