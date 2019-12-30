@@ -1,3 +1,4 @@
+/* eslint-disable */
 const BadRequestException = require('./lib/BadRequestException').BadRequestException;
 const ConflictingResourceException = require('./lib/ConflictingResourceException').ConflictingResourceException;
 const ForbiddenException = require('./lib/ForbiddenException').ForbiddenException;
@@ -5,6 +6,7 @@ const GenericRestException = require('./lib/GenericRestException').GenericRestEx
 const NotFoundException = require('./lib/NotFoundException').NotFoundException;
 const RestException = require('./lib/RestException').RestException;
 const UnauthorizedException = require('./lib/UnauthorizedException').UnauthorizedException;
+const NotImplementedException = require('./lib/NotImplementedException').NotImplementedException;
 
 module.exports = {
     BadRequestException: BadRequestException,
@@ -13,5 +15,6 @@ module.exports = {
     GenericRestException: GenericRestException,
     NotFoundException: NotFoundException,
     RestException: RestException,
-    UnauthorizedException: UnauthorizedException
+    UnauthorizedException: UnauthorizedException,
+    NotImplementedException: NotImplementedException
 };
